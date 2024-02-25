@@ -7,7 +7,7 @@
 
 
 
-![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=white&longCache=true&style=for-the-badge)
+![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26.svg?logo=html5&logoColor=white&longCache=true&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/-LUA-2C2D72.svg?logo=lua&logoColor=white&longCache=true&style=for-the-badge)
 <!---
