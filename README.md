@@ -2,12 +2,14 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning /
 - 📫 How to reach me
-- website: https://xyztoshi.de
-- Instagram : contact@xyztoshi.de
+- Website: https://xyztoshi.de
+- Email : contact@xyztoshi.de
 
 
 
-![Javascript](https://img.shields.io/badge/-JavaScript-000000.svg?logo=javascript&logoColor=007ACC&longCache=true&style=for-the-badge)
+![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&logoColor=007ACC&longCache=true&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-E34F26.svg?logo=html5&logoColor=007ACC&longCache=true&style=for-the-badge)
+![Lua](https://img.shields.io/badge/-LUA-2C2D72.svg?logo=lua&logoColor=007ACC&longCache=true&style=for-the-badge)
 <!---
 ToshiDeveloper/ToshiDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
